@@ -10,6 +10,7 @@ class StartApplicationTests {
     void contextLoads() {
         System.out.println("11");
         System.out.println("master");
+        System.out.println("other7");
     }
 
 }
