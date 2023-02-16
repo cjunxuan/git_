@@ -9,7 +9,6 @@ class StartApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("1");
-        System.out.println("master");
     }
 
 }
