@@ -11,6 +11,7 @@ class StartApplicationTests {
         System.out.println("11");
         System.out.println("master");
         System.out.println("other7");
+        System.out.println("push test");
     }
 
 }
